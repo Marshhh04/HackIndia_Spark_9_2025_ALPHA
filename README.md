@@ -1,1 +1,1 @@
-# HackIndia_Spark_9_2025_ALPHA
+# face_recognition_project
